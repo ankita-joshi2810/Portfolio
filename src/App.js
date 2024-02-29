@@ -102,12 +102,12 @@ const App = () => {
                     <Col><FaPython size={40} /><br /> Python</Col>
                     <Col><IoMdAnalytics size={40} /><br /> Data Analytics</Col>
                     <Col><FaJava size={40} /><br /> Java</Col>
-                    <Col><SiFastapi size={40} /><br /> Fast API</Col>
+                    <Col><SiFastapi size={40} color='dark green'/><br /> Fast API</Col>
                     <Col><DiDjango size={55} /><br /></Col>
                   </Row><br />
                   <Row>
                     <Col><TbBrandCpp size={40} /></Col>
-                    <Col><SiPowerbi size={40} /><br /> PowerBI</Col>
+                    <Col><SiPowerbi size={40} color='yellow'/><br /> PowerBI</Col>
                     <Col><SiPandas size={40} /><br /> Pandas</Col>
                     <Col><SiNumpy size={40} /><br /> Numpy</Col>
                     <Col><SiMysql size={55} /></Col>
